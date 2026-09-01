@@ -1,0 +1,6 @@
+{
+  "name": "Photo Collage Maker",
+  "description": "AI-Powered Photo Collage Maker with intelligent auto-layout, smart crop, freeform canvas, filters, templates, and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,74 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top-Left Photo Frame -->
+    <path
+        android:pathData="M28,28h22c2.2,0 4,1.8 4,4v20c0,2.2 -1.8,4 -4,4h-22c-2.2,0 -4,-1.8 -4,-4v-20c0,-2.2 1.8,-4 4,-4z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="24"
+                android:startY="24"
+                android:endX="54"
+                android:endY="56"
+                android:type="linear">
+                <item android:color="#FF6366F1" android:offset="0.0" />
+                <item android:color="#FF8B5CF6" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Top-Right Photo Frame -->
+    <path
+        android:pathData="M58,28h22c2.2,0 4,1.8 4,4v12c0,2.2 -1.8,4 -4,4h-22c-2.2,0 -4,-1.8 -4,-4v-12c0,-2.2 1.8,-4 4,-4z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="24"
+                android:endX="84"
+                android:endY="48"
+                android:type="linear">
+                <item android:color="#FFEC4899" android:offset="0.0" />
+                <item android:color="#FFF43F5E" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Bottom-Left Frame -->
+    <path
+        android:pathData="M28,60h22c2.2,0 4,1.8 4,4v12c0,2.2 -1.8,4 -4,4h-22c-2.2,0 -4,-1.8 -4,-4v-12c0,-2.2 1.8,-4 4,-4z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="24"
+                android:startY="56"
+                android:endX="54"
+                android:endY="80"
+                android:type="linear">
+                <item android:color="#FF06B6D4" android:offset="0.0" />
+                <item android:color="#FF3B82F6" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Bottom-Right Frame -->
+    <path
+        android:pathData="M58,52h22c2.2,0 4,1.8 4,4v20c0,2.2 -1.8,4 -4,4h-22c-2.2,0 -4,-1.8 -4,-4v-20c0,-2.2 1.8,-4 4,-4z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="48"
+                android:endX="84"
+                android:endY="80"
+                android:type="linear">
+                <item android:color="#FF10B981" android:offset="0.0" />
+                <item android:color="#FF06B6D4" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- AI Spark Magic Icon Center Overlap -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,42 L56.5,50 L64.5,52.5 L56.5,55 L54,63 L51.5,55 L43.5,52.5 L51.5,50 Z" />
+    <path
+        android:fillColor="#FFE0E7FF"
+        android:pathData="M69,33 L70.5,37.5 L75,39 L70.5,40.5 L69,45 L67.5,40.5 L63,39 L67.5,37.5 Z" />
+</vector>
